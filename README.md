@@ -5,6 +5,9 @@
 - https://github.com/scalaz/scalaz/blob/v7.1.0/core/src/main/scala/scalaz/syntax/Syntax.scala
 - https://github.com/scalaz/scalaz/blob/v7.1.1/core/src/main/scala/scalaz/syntax/Syntax.scala
 
+- https://travis-ci.org/xuwei-k/mima-bug-118-scalaz/builds/137150003
+
+
 ```
 [info] Running com.example.Main 
 java.lang.AbstractMethodError: com.example.ToTypeClassOps0$.ToAssociativeOps(Ljava/lang/Object;Lscalaz/Associative;)Lscalaz/syntax/AssociativeOps;
